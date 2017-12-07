@@ -164,6 +164,14 @@ ul#services li{
   text-align:center;
 }
 
+#footer p a{
+  text-decoration: none;
+}
+
+#footer p a:hover{
+  font-weight: bold;
+}
+
 @media(max-width: 768px){
   header #branding,
   header nav,
